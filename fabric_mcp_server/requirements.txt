@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+fastmcp
+requests
+azure-identity
+msal
+itsdangerous
+starlette
+gunicorn
+redis
+pyodbc
+pandas
+matplotlib
+python-multipart
