@@ -94,6 +94,12 @@ REDIS_KEY=your-redis-password
 
 ## 🚀 Running the Server
 
+**Navigate to source directory**
+
+```pip
+cd ./fabric_mcp_server_user
+```
+
 **Install dependencies:**
 
 ```pip
